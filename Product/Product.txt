@@ -1,0 +1,5 @@
+Milk - 50
+Potato - 6
+Onion - 4
+Phone - 150
+Cookie - 10
